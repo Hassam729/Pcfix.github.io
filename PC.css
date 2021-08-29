@@ -11,6 +11,7 @@
 #computer-component{
   font-size: 28px;
   text-align: center;
+  text-tranform: uppercase;
 }
 #processor{
   font-size: 25px;
