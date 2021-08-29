@@ -1,0 +1,116 @@
+#body{}
+#main{
+  box-shadow:10px 10px 8px #888888;
+  padding: 0px 200px 0px 200px;
+}
+#h1{}
+#h2{
+  font-size: 30px;
+  text-transform: uppercase;
+}
+#computer-component{
+  font-size: 28px;
+  text-align: center;
+}
+#processor{
+  font-size: 25px;
+}
+#motherboard{
+  font-size: 25px;
+}
+#content{
+  font-size: 25px;
+}
+#storage{
+  font-size: 25px;
+}
+#graphic-card{
+  font-size: 25px;
+}
+#power-supply{
+  font-size: 25px;
+}
+#case{
+  font-size: 25px;
+}
+#p1{
+  box-shadow:10px 10px 8px white;
+}
+#p2{}
+#p3{}
+#p4{}
+#p5{}
+#p6{}
+#p7{}
+#p8{}
+#p9{}
+#p10{}
+#p11{}
+#p12{}
+#p13{}
+#p14{}
+#p15{}
+#p16{}
+#p17{}
+#p18{}
+#p19{}
+#p20{}
+#p21{}
+#p22{}
+#p23{}
+#p24{}
+#p25{}
+#p26{}
+#p27{}
+#p28{}
+#p29{}
+#img1{}
+#img2{}
+#img3{}
+#img4{}
+#img5{}
+#img6{}
+#ul1{}
+#ul2{}
+#ul3{}
+#ul4{}
+#ul5{}
+#ol1{}
+#ol2{}
+#ol3{}
+.main{}
+.style{
+  font-size: 20px;
+  font-family:;
+}
+.heading{}
+.img{}
+.bullets{}
+.numbers{}
+nav{
+  text-align: left;
+  font-size: 20px;
+  padding: 10px 0px 0px 0px;
+  text-transform: uppercase;
+  widtth:1px;
+}
+#div-nav{
+  background-color: #c5d5cb;
+  height: 50px;
+}
+.nav1{
+   text-align: center;
+   padding:0px 0px 15px 0px;
+}
+nav input[type=text]{
+  border: none;
+}
+h1{
+  text-align: center;
+  font-size: 70px;
+  text-transform: uppercase;
+  box-shadow:10px 10px 8px #888888;
+  background-color:rgb(6, 99, 71);
+  border-style: outset;
+  padding: 0px 0px 0px 0px;
+}
